@@ -1,5 +1,4 @@
 import Component.Component;
-import org.omg.CORBA.COMM_FAILURE;
 
 public class Computer{
 
