@@ -2,3 +2,7 @@
 * ## Lab 1 : 计算机销售系统的实现                
 
 * ## Homework 2 Singleton          
+
+* ## Homework 3 String Count
+
+  
