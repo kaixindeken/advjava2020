@@ -1,0 +1,15 @@
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/Annotation/Column.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/TinyOrm/DAOImpl/UpdateImpl.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/TinyOrm/DAO/Delete.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/Annotation/Table.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/TinyOrm/DAOImpl/InsertImpl.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/TinyOrm/DAO/Insert.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/TinyOrm/DAOImpl/DeleteImpl.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/TinyOrm/DAO/Get.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/TinyOrm/DAOImpl/Core.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/TinyOrm/DAO/First.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/Annotation/Id.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/TinyOrm/JdbcDAOHelper.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/TinyOrm/DAO/Update.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/TinyOrm/DAOImpl/GetImpl.java
+/home/ken/IdeaProjects/TinyJavaOrm/src/main/java/com/kaixindeken/TinyOrm/DAOImpl/FirstImpl.java
